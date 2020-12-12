@@ -1,0 +1,9 @@
+E:\Projetos PRCA2\Windows forms\FormsExercicio6\FormsExercicio6\bin\Debug\FormsExercicio6.exe.config
+E:\Projetos PRCA2\Windows forms\FormsExercicio6\FormsExercicio6\bin\Debug\FormsExercicio6.exe
+E:\Projetos PRCA2\Windows forms\FormsExercicio6\FormsExercicio6\bin\Debug\FormsExercicio6.pdb
+E:\Projetos PRCA2\Windows forms\FormsExercicio6\FormsExercicio6\obj\Debug\FormsExercicio6.frmConversorDeMilhaParaKm.resources
+E:\Projetos PRCA2\Windows forms\FormsExercicio6\FormsExercicio6\obj\Debug\FormsExercicio6.Properties.Resources.resources
+E:\Projetos PRCA2\Windows forms\FormsExercicio6\FormsExercicio6\obj\Debug\FormsExercicio6.csproj.GenerateResource.cache
+E:\Projetos PRCA2\Windows forms\FormsExercicio6\FormsExercicio6\obj\Debug\FormsExercicio6.csproj.CoreCompileInputs.cache
+E:\Projetos PRCA2\Windows forms\FormsExercicio6\FormsExercicio6\obj\Debug\FormsExercicio6.exe
+E:\Projetos PRCA2\Windows forms\FormsExercicio6\FormsExercicio6\obj\Debug\FormsExercicio6.pdb
